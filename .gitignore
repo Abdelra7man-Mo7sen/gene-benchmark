@@ -1,0 +1,47 @@
+# Data files
+data/raw/
+data/processed/
+*.fasta
+*.bam
+*.bai
+*.gff
+*.gff3
+
+# Results
+results/
+benchmark_output/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.so
+.Python
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+nextflow.log*
+
+# Local secrets
+.env
+config.local
+
+# Large data files (keep git clean)
+*.fastq
+*.bam
+*.cram
