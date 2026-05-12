@@ -3,6 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![Nextflow](https://img.shields.io/badge/Nextflow-23.10.0-green)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20141915.svg)](https://doi.org/10.5281/zenodo.20141915)
 
 A large-scale empirical benchmark comparing 11 gene prediction tools on 113 genomes using multi-omics validation.
 
