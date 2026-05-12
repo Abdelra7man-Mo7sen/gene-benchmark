@@ -36,12 +36,12 @@ nextflow run main.nf -profile test
 ```
 
 ## Results Summary Table
-| Tool | Prokaryote F1 | Eukaryote F1 | Time (min/Mbp) |
-|------|---------------|---------------|----------------|
-| Prodigal | 0.987 | — | 0.04 |
-| BRAKER2 | — | 0.901 | 187 |
-| DeepGene | 0.957 | 0.744 | 0.67 |
-| MetaGeneAnnotator | 0.904 | — | 0.11 |
+| Tool              | Prokaryote F1 | Eukaryote F1 | Time (min/Mbp) |
+|-------------------|---------------|--------------|----------------|
+| Prodigal          | 0.987         | –            | 0.04           |
+| BRAKER2           | –             | 0.901        | 187            |
+| DeepGene          | 0.957         | 0.744        | 0.67           |
+| MetaGeneAnnotator | 0.904         | –            | 0.11           |
 
 ## Citation
 If you use this benchmark, please cite:
